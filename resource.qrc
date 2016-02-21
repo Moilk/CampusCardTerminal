@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/ico">
+        <file>resource/secret0.ico</file>
+        <file>resource/secret1.ico</file>
+        <file alias="aboutIco">resource/secret2.ico</file>
+        <file>resource/secret3.ico</file>
+        <file>resource/secret4.ico</file>
+        <file>resource/secret5.ico</file>
+        <file alias="windowIco">resource/secret6.ico</file>
+        <file>resource/secret7.ico</file>
+        <file>resource/secret8.ico</file>
+        <file>resource/secret9.ico</file>
+        <file>resource/secret10.ico</file>
+        <file>resource/secret11.ico</file>
+        <file>resource/refresh.ico</file>
+        <file>resource/refresh1.ico</file>
+        <file>resource/refresh2.ico</file>
+    </qresource>
+    <qresource prefix="/new/png">
+        <file alias="cover">resource/cover.png</file>
+    </qresource>
+</RCC>
